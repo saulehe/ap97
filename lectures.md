@@ -24,12 +24,17 @@ You can download the lectures here (in PDF format). I will try to upload lecture
               {{ lecture.slides }} 
             {% else %}
               {{ lecture.slides | prepend: site.baseurl }} 
-            {% endif %}">{{ lecture.title }}</a></span><br>
+            {% endif %}">{{ lecture.title }}</a>
+        </span><br>
 
-        <!--<strong>tl;dr:</strong> {{ lecture.tldr }}
-        <br/>-->
+        {% if lecture.tldr %}
+            <strong>tl;dr:</strong> 
+            {{ lecture.tldr }}
+            <br/>
+        {% endif %}
+
         <strong>
-        {% include lecture_links.html lecture=lecture %}
+            {% include lecture_links.html lecture=lecture %}
         </strong>
     </div>
 </div>
