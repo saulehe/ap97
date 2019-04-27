@@ -1,6 +1,6 @@
 instructor:
-  name: Sauleh Eetemadi
-  profile_pic: /_images/eetemadi.jpg
+    name: Sauleh Eetemadi
+    profile_pic: /_images/avatar.png
 
 teaching_assistants:
   - name: Ali Heydari
@@ -8,3 +8,37 @@ teaching_assistants:
 
   - name: Sepehr Hashemi
     profile_pic: /_images/avatar.png
+
+  - name: Pooya Kabiri
+    profile_pic: /_images/avatar.png
+
+  - name: Alireza Moradi
+    profile_pic: /_images/avatar.png
+
+  - name: Keyvan Mirshekari
+    profile_pic: /_images/avatar.png
+
+  - name: Yegane Morshedzadeh
+    profile_pic: /_images/avatar.png
+
+  - name: Amir Ehsandar
+    profile_pic: /_images/avatar.png
+
+  - name: Mohammad Abdollahpour
+    profile_pic: /_images/avatar.png
+
+  - name: Mobina Kashanian
+    profile_pic: /_images/avatar.png
+
+  - name: Mobin Daryoush
+    profile_pic: /_images/avatar.png
+
+  - name: Hossein Sadatipour
+    profile_pic: /_images/avatar.png
+
+  - name: Sara Kodeiri
+    profile_pic: /_images/avatar.png
+
+  - name: Milad Esfandyari
+    profile_pic: /_images/avatar.png
+
