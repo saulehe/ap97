@@ -3,7 +3,7 @@ instructor:
     profile_pic: /_images/profile-photos/sauleh-eetemadi.jpg
 
 teaching_assistants:
-  - name: Ali Heydari (Head)
+  - name: <a href="https://github.com/ali4heydari">Ali Heydari (Head)</a>
     profile_pic: /_images/profile-photos/ali-heydari.jpg
 
   - name: Sepehr Hashemi
@@ -12,7 +12,7 @@ teaching_assistants:
   - name: Milad Esfandyari
     profile_pic: /_images/avatar.png
 
-  - name: MohammadJavad Mirshekari
+  - name: Mohammad Mirshekari
     profile_pic: /_images/avatar.png
 
   - name: Mobin Daryoush
@@ -21,11 +21,11 @@ teaching_assistants:
   - name: Mohammad Abdollahpour
     profile_pic: /_images/avatar.png
 
-  - name: Amir Ehsandar
-    profile_pic: /_images/avatar.png
+  - name: <a href="https://github.com/ehsandaramir/">Amir Ehsandar</a>
+    profile_pic: /_images/profile-photos/amir-ehsandaar.jpg
 
   - name: Sara Kodeiri
-    profile_pic: /_images/avatar.png
+    profile_pic: /_images/profile-photos/sara-kodeyri.jpg
 
   - name: AliReza Moradi
     profile_pic: /_images/avatar.png
@@ -37,7 +37,7 @@ teaching_assistants:
     profile_pic: /_images/avatar.png
 
   - name: Mobina Kashanian
-    profile_pic: /_images/avatar.png
+    profile_pic: /_images/profile-photos/mobina-kashanian.jpg
 
   - name: Hossein Sadatipour
     profile_pic: /_images/avatar.png
@@ -56,4 +56,10 @@ teaching_assistants:
 
   - name: Mahdi Moghaddami
     profile_pic: /_images/avatar.png
+
+  - name: <a href="http://Github.com/LaMentaTahaei">Mina Tahaei</a>
+    profile_pic: /_images/profile-photos/mina-tahaei.jpg
+
+  - name: Farnaz Niknia
+    profile_pic: /_images/profile-photos/farnaz-niknia.jpg
 
