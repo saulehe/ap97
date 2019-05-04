@@ -18,9 +18,6 @@ teaching_assistants:
   - name: Mobin Daryoush
     profile_pic: /_images/avatar.png
 
-  - name: Mohammad Abdollahpour
-    profile_pic: /_images/avatar.png
-
   - name: <a href="https://github.com/ehsandaramir/">Amir Ehsandar</a>
     profile_pic: /_images/profile-photos/amir-ehsandaar.jpg
 
@@ -33,16 +30,19 @@ teaching_assistants:
   - name: Pooya Kabiri
     profile_pic: /_images/avatar.png
 
-  - name: Yegane MorshedZadeh
-    profile_pic: /_images/avatar.png
-
   - name: Mobina Kashanian
     profile_pic: /_images/profile-photos/mobina-kashanian.jpg
+
+  - name: Mohammad Abdollahpour
+    profile_pic: /_images/avatar.png
 
   - name: Hossein Sadatipour
     profile_pic: /_images/avatar.png
 
   - name: Sadra Moghaddam
+    profile_pic: /_images/avatar.png
+
+  - name: Yegane MorshedZadeh
     profile_pic: /_images/avatar.png
 
   - name: Danial Ghaemi
