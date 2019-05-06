@@ -29,4 +29,12 @@
       {{ include.lecture.data | prepend: site.baseurl }} 
     {% endif %}">data</a>]
     {% endif %}
+    {% if include.lecture.link %}
+    [<a title="External Link" href="
+    {% if include.lecture.link contains '://' %}
+      {{ include.lecture.link }} 
+    {% else %}
+      {{ include.lecture.link | prepend: site.baseurl }} 
+    {% endif %}">External Link</a>]
+    {% endif %}    
 </div>
