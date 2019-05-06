@@ -7,12 +7,12 @@ description: |
     Instructor: Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/ap97/" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io" # the base hostname & protocol for your site
-githubdir: "username/repo"
+baseurl: "/ap97" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/ap97" # the base hostname & protocol for your site
+githubdir:
 
 # Author/user information
-email: instructor-last-name@iust.ac.ir
+email: instructor-first-name@iust.ac.ir
 twitter_username: sauleh_e 
 github_username:  sauleh
 authorurl: "http://sauleh.github.io"
