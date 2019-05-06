@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-04-29T8:00:00+4:30
+date: 2019-05-06T8:00:00+4:30
 title: Session 19 - Error/Exception Handling - Continued
 slides: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FSlides&files=AP_Session19.pdf
 video: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FClassVideos&files=S19.mp4
