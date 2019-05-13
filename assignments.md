@@ -9,7 +9,7 @@ You can download the assignments here (in PDF format). Also check out assignment
 The latest Code Review guide can be found [here](/ap97/static_files/AP97982-CodeReviewGuide.V.1.3.pdf).
 
 <ul id="archive">
-{% for asg in site.assignments %}
+{% for asg in site.assignments reversed %}
       <li class="archiveposturl" style="background: transparent">
         <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">

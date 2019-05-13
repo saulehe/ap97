@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2019-05-11T8:00:00+4:30
-title: Session 19 - Inheritance
+title: Session 20 - Inheritance
 slides: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FSlides&files=AP_Session20.pdf
 video: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FClassVideos&files=S20.mp4
 codes: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCode&files=S20.zip
