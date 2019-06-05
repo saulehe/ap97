@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-05-18T8:00:00+4:30
+date: 2019-05-20T8:00:00+4:30
 title: Session 22 - Delegate, Lambda Expression, Iterator Pattern, LINQ
 slides: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FSlides&files=AP_Session22.pdf
 video: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FClassVideos&files=S22.mp4
