@@ -1,10 +1,12 @@
 <div>
+    {% if include.lecture.slides %}
     [<a title="Download slides (pdf)" href="
     {% if include.lecture.slides contains '://' %}
       {{ include.lecture.slides }} 
     {% else %}
       {{ include.lecture.slides | prepend: site.baseurl }} 
     {% endif %}">slides</a>]
+    {% endif %}
     {% if include.lecture.video %}
     [<a title="Download video (mp4)" href="
     {% if include.lecture.video contains '://' %}
