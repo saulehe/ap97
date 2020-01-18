@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-03-11T8:00:00+4:30
+date: 2019-03-03T8:00:00+4:30
 title: Session 8 - Class, Constructors, Methods
 slides: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FSlides&files=AP_Session8.pdf
 video: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FClassVideos&files=S8.mp4
